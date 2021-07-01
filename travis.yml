@@ -18,5 +18,3 @@ install:
 script:
   - pipenv run flake8 .
 
-
-
