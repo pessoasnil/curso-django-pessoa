@@ -1,5 +1,7 @@
 # curso-django-pessoa
 Código de desenvolvimento do módulo Django do [Python Pro](https://www.python.pro.br/)
+Aplicação disponivel em https://pythonpessoadjango.herokuapp.com/
+
 
 [![Build Status](https://travis-ci.com/pessoasnil/libpythonpessoa.svg?branch=main)](https://travis-ci.com/pessoasnil/libpythonpessoa)
 [![Updates](https://pyup.io/repos/github/pessoasnil/libpythonpessoa/shield.svg)](https://pyup.io/repos/github/pessoasnil/libpythonpessoa/)
@@ -8,7 +10,7 @@ Código de desenvolvimento do módulo Django do [Python Pro](https://www.python.
 Topicos do Curso:
     1.Pipenv
     2.Django
-    3.
+    
 
 
 
