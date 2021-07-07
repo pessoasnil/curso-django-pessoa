@@ -6,3 +6,5 @@ def test_status_code(client: Client):
     assert resp.status_code == 200
 
 
+
+
