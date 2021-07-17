@@ -9,5 +9,4 @@ from django.http import HttpResponse
 def home(request):
     return HttpResponse('Olá Django')
 
-#comentario
-
+# comentario
