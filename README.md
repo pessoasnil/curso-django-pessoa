@@ -9,7 +9,8 @@ Aplicação disponivel em https://pythonpessoadjango.herokuapp.com/
 
 Topicos do Curso:
     1.Pipenv
-    2.Django
+    2.DjangO
+    3.AWS
     
 
 
