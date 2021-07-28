@@ -11,6 +11,8 @@ Topicos do Curso:
     1.Pipenv
     2.DjangO
     3.AWS
+    4. DBeaver
+
     
 
 
