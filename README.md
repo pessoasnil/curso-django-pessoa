@@ -18,6 +18,7 @@ Topicos do Curso:
 
 
 
+# AWS_ACCESS_KEY_ID=AKIAYHD7MOBZ6SAKFMHC
 
 
 
