@@ -14,6 +14,8 @@ from functools import partial
 import dj_database_url
 import os.path
 from pathlib import Path
+import sentry_sdk
+from sentry_sdk.integrations.django import DjangoIntegration
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 from decouple import config
@@ -143,8 +145,6 @@ COLLECTFAST_ENABLED = False
 
 AWS_ACCESS_KEY_ID = config('AWS_ACCESS_KEY_ID')
 
-
-
 # STORAGE CONFIGURATION IN S3 AWS
 # -----------------------------------------------------------------------
 
@@ -185,4 +185,10 @@ if AWS_ACCESS_KEY_ID:
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+# Configuração do Sentry (checar erros de produção)
+SENTRY_DSN = config('SENTRY_DSN', default=None)
 
+if SENTRY_DSN:
+    sentry_sdk.init(
+        dsn=SENTRY_DSN,
+        integrations=[DjangoIntegration()], )
