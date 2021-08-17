@@ -14,7 +14,6 @@ Topicos do Curso:
     4. DBeaver
 
 
-    
 
 
 
