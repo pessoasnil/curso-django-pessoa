@@ -22,7 +22,7 @@ from pypro.base.views import home
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', home),
+    path('', home, name='home'),
 ]
 
 if settings.DEBUG:
@@ -30,5 +30,3 @@ if settings.DEBUG:
     urlpatterns.append(
         path('__debug__/', include(debug_toolbar.urls))
     )
-
-
