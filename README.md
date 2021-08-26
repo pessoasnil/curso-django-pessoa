@@ -15,6 +15,7 @@ Topicos do Curso:
 
 Deploy
     Entrega da Landing Page
+    Help forum
 
 
 
