@@ -13,7 +13,8 @@ Topicos do Curso:
     3.AWS
     4. DBeaver
 
-
+Deploy
+    Entrega da Landing Page
 
 
 
