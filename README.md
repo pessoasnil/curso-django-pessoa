@@ -12,7 +12,6 @@ Topicos do Curso:
     2.DjangO 
     3.AWS 
     4. DBeaver
-    5.
 
 
 
