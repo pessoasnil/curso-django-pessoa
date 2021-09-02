@@ -4,3 +4,5 @@ from django.shortcuts import render
 
 def home(request):
     return render(request, 'base/home.html')
+
+# AWS_ACCESS_KEY_ID=AKIAYHD7MOBZ6SAKFMHC
