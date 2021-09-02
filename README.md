@@ -16,6 +16,8 @@ Topicos do Curso:
 Deploy
     Entrega da Landing Page
     Help forum
+    versionei 192 para p git
+
 
 
 
