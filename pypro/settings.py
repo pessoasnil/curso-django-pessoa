@@ -50,7 +50,6 @@ INSTALLED_APPS = [
     'pypro.base',
 ]
 
-
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
