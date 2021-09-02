@@ -8,7 +8,10 @@ Aplicação disponivel em https://pythonpessoadjango.herokuapp.com/
 [![codecov](https://codecov.io/gh/pessoasnil/libpythonpro/branch/master/graph/badge.svg?token=W1S65KY8W0)](https://codecov.io/gh/pessoasnil/libpythonpro)
 
 Topicos do Curso:
-1.Pipenv 2.DjangO 3.AWS 4. DBeaver
+    1.Pipenv 
+    2.DjangO 
+    3.AWS 
+    4. DBeaver
 
 
 
